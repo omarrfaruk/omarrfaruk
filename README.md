@@ -1,17 +1,17 @@
 ## :eyes: Current overview      
 <br />
 
-- 👋 Hi, I’m Emtiaz Hossain Emon 
+- 👋 Hi, I’m Omar Faruk
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning React Js
-- 📫 How to reach me emtiazhossainrzs@gmail.com 
-- 📫 My Portfolio [(https://emtiaz-hossain.vercel.app//)](https://emtiaz-hossain.vercel.app/) 
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me omarfaruk37088@gmail.com
+- 📫 My Portfolio [(https://omarrfarukportfolio.netlify.app///)](https://omarrfarukportfolio.netlify.app//) 
 
 <!-- ## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/omarrfaruk?label=Follow&style=social)](https://github.com/ommarfaruk)&nbsp;![Profile views](https://gpvc.arturio.dev/omarrfaruk)  -->
 
 <br />
 
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/emtiazhossaine2/) [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/EmtiazHossainE2) [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/EmtiazHossainE2)  [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/emtiazhossain.e/) 
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/omarrfaruk/) [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/omarfaruk3708) 
 
 <br />
 
