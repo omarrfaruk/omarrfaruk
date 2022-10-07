@@ -5,7 +5,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me omarfaruk37088@gmail.com
-- 📫 My Portfolio [(https://omarrfarukportfolio.netlify.app///)](https://omarrfarukportfolio.netlify.app//) 
+- 📫 My Portfolio [(https://omarrfaruk.netlify.app///)](https://omarrfarukportfolio.netlify.app//) 
 
 <!-- ## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/omarrfaruk?label=Follow&style=social)](https://github.com/ommarfaruk)&nbsp;![Profile views](https://gpvc.arturio.dev/omarrfaruk)  -->
 
